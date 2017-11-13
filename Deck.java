@@ -41,6 +41,8 @@ public class Deck {
 			Card temp = a;
 			a = b;
 			b = temp;
+			cards.set(i,a);
+			cards.set(j,b);
 		}
 		nUsed = 0;
 		for (int i = 0; i < usedCard.size(); i++) {
