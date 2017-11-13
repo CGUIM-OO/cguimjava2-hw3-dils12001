@@ -4,8 +4,12 @@ import java.util.HashMap;
 
 /**
  * @author TODO: please add student ID and name here
+ * b0544242 葉明瑋
  * Try to write some comments for your codes (methods, 10 points)
+ * shuffle :cards的arraylist從第一張牌依序把值拿出來隨機找另一張牌的值來換
+ *
  */
+ 
 public class HW3 {
 	public static void main(String[] args) {
 		//Scanner sc = new Scanner(System.in);
